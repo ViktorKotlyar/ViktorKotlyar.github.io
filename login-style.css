@@ -1,0 +1,42 @@
+body{
+  text-decoration: none;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.parent{
+  background-color:rgb(255, 187, 0);
+width: 300px;
+height: 300px;
+padding: 30px; 
+box-shadow: 5px 5px 18px #018023;
+font-family: sans-serif;}
+.son .vhid-top{
+  font-size: 40px;
+  color: rgb(60, 5, 5);
+  width: 200px;
+  height: 50px;
+  margin-top: 1px;
+  margin-left: 90px;
+}
+.log-1, .pass-2{
+
+  width: 250px;
+  height: 30px;
+margin-top: 0;
+margin-left: 20px;
+}
+.button-sign{
+  width: 140px;
+  height: 40px;
+  margin-top: 0;
+  margin-left: 80px; 
+}
+.registr{
+  color: #018023;
+  font-size: 20px;
+  margin-left: 70px;
+  margin-top: 0;
+}
